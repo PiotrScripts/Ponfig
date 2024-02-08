@@ -1,0 +1,10 @@
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\PonfigTest\obj\Debug\PonfigTest.csproj.AssemblyReference.cache
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\PonfigTest\obj\Debug\PonfigTest.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\PonfigTest\bin\Debug\PonfigTest.exe.config
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\PonfigTest\bin\Debug\PonfigTest.exe
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\PonfigTest\bin\Debug\PonfigTest.pdb
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\PonfigTest\bin\Debug\Ponfig.dll
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\PonfigTest\bin\Debug\Ponfig.pdb
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\PonfigTest\obj\Debug\PonfigTest.csproj.CopyComplete
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\PonfigTest\obj\Debug\PonfigTest.exe
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\PonfigTest\obj\Debug\PonfigTest.pdb

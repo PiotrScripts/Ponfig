@@ -1,0 +1,6 @@
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\Ponfig\bin\Release\Ponfig.dll
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\Ponfig\bin\Release\Ponfig.pdb
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\Ponfig\obj\Release\Ponfig.csproj.AssemblyReference.cache
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\Ponfig\obj\Release\Ponfig.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\Ponfig\obj\Release\Ponfig.dll
+C:\Users\piotr\Documents\GitHub\Ponfig\Ponfig\Ponfig\obj\Release\Ponfig.pdb
